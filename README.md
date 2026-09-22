@@ -1,1 +1,1 @@
-# HuggingFace---Image-Generation-Panthini-Patel-
+# HuggingFace Image-Generation-Panthini-Patel
